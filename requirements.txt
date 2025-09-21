@@ -1,0 +1,7 @@
+Python 3.8+
+tkinter
+fpdf 
+pickle 
+os 
+Git 
+IDE or Text Editor
