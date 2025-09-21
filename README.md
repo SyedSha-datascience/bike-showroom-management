@@ -1,4 +1,4 @@
-<img width="1920" height="1007" alt="Screenshot (Result after Adding bike)" src="https://github.com/user-attachments/assets/d6b5e6e2-336e-4f0a-a358-b4c6b63ccb28" /><img width="1920" height="1007" alt="Screenshot (Modify bike interface)" src="https://github.com/user-attachments/assets/b1b376c5-6666-40b1-bcb6-84473c95194b" /># 🏍️ Bike Showroom Management System
+# 🏍️ Bike Showroom Management System
 A Python Tkinter application to manage bike showroom inventory, sales, and billing.
 
 ## Overview
