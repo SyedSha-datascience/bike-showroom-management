@@ -24,7 +24,7 @@ The Bike Showroom Management System is a desktop application developed in Python
 
 ## \images\
 
-<img width="1920" height="1007" alt="Screenshot (Home Screen)" src="https://github.com/user-attachments/assets/b27dd750-9416-4baf-8f8a-df0627fc9252" />
+<img width="1920" height="1007" alt="Screenshot (Home Screen)" src="https://github.com/user-attachments/assets/b27dd750-9416-4baf-8f8a-df0627fc9252" /> Home Screen 
 <img width="1920" height="1007" alt="Screenshot (Display Bikes)" src="https://github.com/user-attachments/assets/768188a9-c7fe-4c38-a5c5-75e0eb16d5d4" />
 <img width="1920" height="1009" alt="Screenshot (Adding bike interface)" src="https://github.com/user-attachments/assets/01678c37-22b2-4842-b585-428b9fc9eb57" />
 <img width="1920" height="1007" alt="Screenshot (Result after Adding bike)" src="https://github.com/user-attachments/assets/d05d03e0-4e15-49b6-aa3d-631c36aa4eb2" />
