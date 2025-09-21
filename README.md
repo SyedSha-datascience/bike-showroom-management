@@ -17,6 +17,6 @@ The Bike Showroom Management System is a desktop application developed in Python
 
 💾 Persistent Storage – Saves and loads bike data automatically.
 
-📄 PDF Invoice – Generate and save invoices as PDF files.
+📄 Invoice – Generate and save invoices as files.
 
 🖥️ User-Friendly GUI – Easy navigation with Tkinter interface.
